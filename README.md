@@ -99,10 +99,11 @@ plt.title('Test set(H vs S)')
 plt.xlabel("Hours")
 plt.ylabel("scores")
 plt.show()
-
-![Uploading {DE1F16A3-14C2-478E-91D9-F6FFC38799D6}.png…]()
-
 ```
+![{024089BF-F053-4F95-A7C7-79A730D96EA5}](https://github.com/user-attachments/assets/e412ef8d-9c28-4ec8-9a63-33bd1d44588e)
+
+
+
 ```
 mse = mean_squared_error(y_test, y_pred)
 print('MSE = ', mse)
