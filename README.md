@@ -121,8 +121,6 @@ print("RMSE = ",rmse)
 ![{02AB4923-760A-4632-9101-34E8FDE13C07}](https://github.com/user-attachments/assets/53a4da3b-6e68-4b20-a220-bd53379d1c2b)
 
 
-## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
 
 ## Result:
